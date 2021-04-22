@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 debug.log
+/.DS_Store
+*.DS_Store

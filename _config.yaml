@@ -1,9 +1,9 @@
 # site settings
-title: Lab Website Template
-logo: images/logo.svg
+title: ARCADE
+logo: images/logo_whitetext.svg
 
 # page defaults
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: Advaned Robotics and Computationally AugmenteD Environments
 header: images/background.jpg
 footer: images/background.jpg
 
@@ -21,15 +21,15 @@ nav:
     tooltip: Email, address, and location
 
 # site social media
-email: jane.smith@your-lab.com
-google-scholar: Jane Smith
-github: your-lab
-twitter: YourLabHandle
-instagram: YourLabHandle
-youtube: YourLabChannel
+email: unberath@jhu.edu
+google-scholar: 1bd5mdIAAAAJ
+github: arcadelab
+twitter: MathiasUnberath
+# instagram: YourLabHandle
+# youtube: YourLabChannel
 
 # base directory where site is hosted
-baseurl: /lab-website-template
+baseurl: /
 
 # default front matter parameters for markdown files
 defaults:

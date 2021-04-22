@@ -2,46 +2,53 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Empowering Clinicians with Autonomous Intelligent Systems
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+In the Advanced Robotics and Computationally AugmenteD Environments (ARCADE) Lab, we develop
+collaborative intelligent systems that support clinical workflows to increase the access to - and
+expand the possibilities of - highest-quality healthcare. In designing these systems, we pioneer
+human-centered solutions that are enabled by synergistic advancements across imaging, computer
+vision, machine learning, and interaction design and that are embodied in emerging technology such
+as mixed reality and robotics.
 
-{% include big-link.html icon="fab fa-github" text="See the template on GitHub" link="https://github.com/greenelab/lab-website-template" %}{% include big-link.html icon="fas fa-book" text="See the documentation" link="https://github.com/greenelab/lab-website-template/wiki" %}{:.center}
+ARCADE Lab is based on Homewood Campus at [Johns Hopkins University](https://jhu.edu). We are
+affiliated with the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) and
+the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/).
+
+{% include big-link.html icon="fas fa-book" text="See our research" link="https://arcade.cs.jhu.edu/research" %}{% include big-link.html icon="fab fa-github" text="See our code" link="https://github.com/arcadelab" %}{:.center}
 
 <!-- section break -->
 
 # Highlights
 
-{% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% capture text %} 
 
-[See what we've published &nbsp;→](research)
+We perform research in a variety of areas...
+
+[See our research &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/sinus_reconstruction.png"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We regularly offer two courses: [CS 482/682 Machine Learning: Deep Learning](https://deep.cs.jhu.edu/deeplearning.html) and [CS 486/686 Machine Learning: Artificial Intelligence System Design & Development](https://deep.cs.jhu.edu/AIsystems.html).
 
-[See our resources &nbsp;→](resources)
+[View our class pages &nbsp;→](https://deep.cs.jhu.edu)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/2019_fall_deeplearning.png"
   link="resources"
-  title="Our Resources"
+  title="Resources"
   text=text
 %}
 
@@ -54,9 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/augmented_reality.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
 
