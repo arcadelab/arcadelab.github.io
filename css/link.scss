@@ -1,0 +1,15 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+a {
+  color: $accent;
+  transition: color $fast;
+}
+
+a:hover {
+  color: currentColor;
+}

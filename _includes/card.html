@@ -1,0 +1,65 @@
+{% assign size = include.size %}
+
+{% if size != "large" and size != "medium" and size != "small" %}
+{% assign size = "large" %}
+{% endif %}
+
+<div class="card" data-size="{{ size }}">
+  {% assign placeholder = "images/placeholder.svg" | relative_url %}
+  <a
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+    class="card_image"
+  >
+    <img
+      src="{{ include.image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      loading="lazy"
+    >
+  </a>
+  <div class="card_text">
+    {% if include.heading %}
+    <a
+      href="{{ include.link | relative_url }}"
+      class="card_title"
+      data-tooltip="{{ include.tooltip }}"
+      data-delay="500"
+      data-placement="top-start"
+    >
+      {{- include.heading -}}
+    </a>
+    {% endif %}
+
+    {%- for i in (1..5) -%}
+
+    {%- assign row = "row" | append: i -%}
+    {%- assign row = include[row] | strip -%}
+
+    {%- if row != empty -%}
+
+    {%- assign truncate = include.truncate | default: 0 -%}
+    {%- if i <= truncate -%}
+    {%- assign truncate = true -%}
+    {%- else -%}
+    {%- assign truncate = false -%}
+    {%- endif -%}
+
+    {%- assign firstchar = row | slice: 0 -%}
+    {%- if firstchar != "<" -%}
+    <p
+      {% if truncate %}
+      class="truncate"
+      tabindex="0"
+      {% endif %}
+    >
+    {%- endif -%}
+      {{- row -}}
+    {%- if firstchar != "<" -%}
+    </p>
+    {%- endif -%}
+    
+    {%- endif -%}
+
+    {%- endfor -%}
+
+  </div>
+</div>

@@ -1,0 +1,19 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.centerer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  @include block-margins;
+  @include trim-margins;
+
+  & > * {
+    text-align: center;
+  }
+}
