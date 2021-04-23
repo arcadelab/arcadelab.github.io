@@ -11,9 +11,6 @@ human-centered solutions that are enabled by synergistic advancements across ima
 vision, machine learning, and interaction design and that are embodied in emerging technology such
 as mixed reality and robotics.
 
-ARCADE Lab is based on Homewood Campus at [Johns Hopkins University](https://jhu.edu). We are
-affiliated with the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) and
-the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/).
 
 {% include big-link.html icon="fas fa-book" text="See our research" link="https://arcade.cs.jhu.edu/research" %}{% include big-link.html icon="fab fa-github" text="See our code" link="https://github.com/arcadelab" %}{:.center}
 
@@ -23,9 +20,9 @@ the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/)
 
 {% capture text %} 
 
-We perform research in a variety of areas...
+We perform research in a variety of areas.
 
-[See our research &nbsp;→](research)
+[See what we've published &nbsp;→](research)
 {:.center}
 {% endcapture %}
 
@@ -37,8 +34,29 @@ We perform research in a variety of areas...
   text=text
 %}
 
+
+{% capture text %} 
+
+We strive to further the larger community by making our data and code freely available as much as
+possible.
+
+[See what we've built &nbsp;→](resources)
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true"
+  link="Resources"
+  title="Resources"
+  text=text
+%}
+
 {% capture text %}
-We regularly offer two courses: [CS 482/682 Machine Learning: Deep Learning](https://deep.cs.jhu.edu/deeplearning.html) and [CS 486/686 Machine Learning: Artificial Intelligence System Design & Development](https://deep.cs.jhu.edu/AIsystems.html).
+
+We regularly offer two courses: [CS 482/682](https://deep.cs.jhu.edu/deeplearning.html) Machine
+Learning: Deep Learning and [CS 486/686](https://deep.cs.jhu.edu/AIsystems.html) Machine Learning:
+Artificial Intelligence System Design & Development.
 
 [View our class pages &nbsp;→](https://deep.cs.jhu.edu)
 {:.center}
@@ -47,13 +65,13 @@ We regularly offer two courses: [CS 482/682 Machine Learning: Deep Learning](htt
 {%
   include feature.html
   image="images/2019_fall_deeplearning.png"
-  link="resources"
-  title="Resources"
+  link="https://deep.cs.jhu.edu"
+  title="Teaching"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team consists of PhD, Masters, and Undergraduate students.
 
 [Meet our team &nbsp;→](team)
 {:.center}

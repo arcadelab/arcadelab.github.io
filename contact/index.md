@@ -4,27 +4,29 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+ARCADE Lab is based on the Homewood Campus at [Johns Hopkins University](https://jhu.edu). We are
+affiliated with the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) and
+the [Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/), with desks
+available in Hackerman Hall.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/hackerman_hall.jpg"
   width="75%"
-  caption="The Center for Wit and Sagacity"
+  caption="Hackerman Hall"
 %}
 
 <!-- section break -->
 
 ### Email
 
-[scrooge@mcduck.com](mailto:scrooge@mcduck.com)
+[unberath@jhu.com](mailto:unberath@jhu.edu)
 {:.center}
 
-### Phone
+<!-- ### Phone -->
 
-[(555) 867-5309](tel:+1-555-867-5309)
-{:.center}
+<!-- [(555) 867-5309](tel:+1-555-867-5309) -->
+<!-- {:.center} -->
 
 ### Address
 
@@ -33,10 +35,10 @@ Tip: Put both a mailing address for mail/deliveries, AND a navigation-friendly
 address so people can find their way to you easily.
 {% endcomment %}
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada  
+3101 Wyman Park Dr  
+Baltimore, MD 21218  
+United States  
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://goo.gl/maps/HW9KjtaVhCujPTv79)
 {:.center}

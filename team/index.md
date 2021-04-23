@@ -4,10 +4,8 @@ title: Team
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Professor Mathias Unberath leads ARCADE Lab. We are full-time PhD students, Masters students, and
+undergrads at varied stages of expertise.
 
 <!-- section break -->
 
@@ -24,16 +22,31 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 <!-- section dark -->
 <!-- section background images/banner.jpg -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are looking for motivated students interested in the intersection of computer science, vision,
+and health. 
+
+PhD applicants may apply through Johns Hopkins graduate admissions, being sure to note Mathias
+Unberath as their primary faculty member of interest.
+
+Masters and undergraduate students should reach out to Prof. Unberath directly, being sure to
+include area of interest, time frame, and the type of work (Masters thesis, general research, etc).
+Applicants may wish to identify a PhD student whose interests align with theirs, who could
+supervise.
 
 {%
   include big-link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
+  icon="fas user-graduate"
+  text="PhD Applicants"
+  link="https://applygrad.jhu.edu/apply/"
+  button=true
+%}{%
+  include big-link.html
+  icon="fas envelope"
+  text="Other Applicants"
+  link="mailto:unberath@jhu.edu"
   button=true
 %}{:.center}
+
 
 <!-- section break -->
 
