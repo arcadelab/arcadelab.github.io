@@ -17,7 +17,7 @@
   publisher: arXiv
   date: '2020-09-11'
   link: https://arxiv.org/abs/2004.00756
-  image: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/visualizations/icu_beds.png
+  image: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/visualizations/icu_beds.png?raw=true
   repo: JieYingWu/COVID-19_US_County-level_Summaries
 - id: arxiv:1803.08606
   title: DeepDRR -- A Catalyst for Machine Learning in Fluoroscopy-guided Procedures
@@ -32,6 +32,6 @@
   publisher: arXiv
   date: '2018-03-22'
   link: https://arxiv.org/abs/1803.08606
-  image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png
+  image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true
   tags:
   - simulation
