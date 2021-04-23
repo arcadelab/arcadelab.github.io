@@ -10,9 +10,11 @@ undergrads.
 <!-- section break -->
 
 {% capture contents %}
-{% include team-list.html role="pi" %}
-{% include team-list.html role="phd" %}
-{% include team-list.html role="programmer" %}
+{% include team-list.html group="" role="pi" %}
+{% include team-list.html group="" role="postdoc" %}
+{% include team-list.html group="" role="phd" %}
+{% include team-list.html group="" role="masters" %}
+{% include team-list.html group="" role="undergrad" %}
 {% endcapture %}
 
 {% include centerer.html contents=contents %}
@@ -47,6 +49,20 @@ supervise.
   button=true
 %}{:.center}
 
+
+<!-- section break -->
+
+## Alumni
+
+{% capture contents %}
+{% include team-list.html group="alum" role="pi" %}
+{% include team-list.html group="alum" role="postdoc" %}
+{% include team-list.html group="alum" role="phd" %}
+{% include team-list.html group="alum" role="masters" %}
+{% include team-list.html group="alum" role="undergrad" %}
+{% endcapture %}
+
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
 
