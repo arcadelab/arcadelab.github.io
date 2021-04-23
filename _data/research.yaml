@@ -1,10 +1,10 @@
 - id: arxiv:2004.00756
-  image: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/visualizations/icu_beds.png
+  image: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/visualizations/icu_beds.png?raw=true
   date: 2020-9-11
   repo: JieYingWu/COVID-19_US_County-level_Summaries
 
 - id: arxiv:1803.08606
-  image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png
+  image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true
   date: 2018-3-22
   tags:
     - simulation

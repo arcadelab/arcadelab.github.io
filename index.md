@@ -11,12 +11,7 @@ human-centered solutions that are enabled by synergistic advancements across ima
 vision, machine learning, and interaction design and that are embodied in emerging technology such
 as mixed reality and robotics.
 
-
-{% include big-link.html icon="fas fa-book" text="See our research" link="https://arcade.cs.jhu.edu/research" %}{% include big-link.html icon="fab fa-github" text="See our code" link="https://github.com/arcadelab" %}{:.center}
-
 <!-- section break -->
-
-# Highlights
 
 {% capture text %} 
 
@@ -89,4 +84,3 @@ Our team consists of PhD, Masters, and Undergraduate students.
 
 <!-- section full -->
 
-{% include banner.html image="images/banner.jpg" %}

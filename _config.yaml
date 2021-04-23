@@ -4,8 +4,8 @@ logo: images/logo_whitetext.svg
 
 # page defaults
 description: Advaned Robotics and Computationally AugmenteD Environments
-header: images/background.jpg
-footer: images/background.jpg
+header: images/header.jpg
+footer: images/footer.jpg
 
 # site nav bar
 nav:

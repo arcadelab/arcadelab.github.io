@@ -5,7 +5,7 @@ title: Team
 # <i class="fas fa-users"></i>Team
 
 Professor Mathias Unberath leads ARCADE Lab. We are full-time PhD students, Masters students, and
-undergrads at varied stages of expertise.
+undergrads.
 
 <!-- section break -->
 
