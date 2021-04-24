@@ -15,8 +15,8 @@ nav:
     tooltip: Tools, datasets, and more
   - link: team
     tooltip: About our team
-  - link: blog
-    tooltip: Musings and miscellany
+  # - link: blog
+  #   tooltip: Musings and miscellany
   - link: contact
     tooltip: Email, address, and location
 
