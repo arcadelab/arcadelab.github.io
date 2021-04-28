@@ -4,12 +4,6 @@ title: Home
 
 # Empowering Clinicians with Autonomous Intelligent Systems
 
-{% capture contents %}
-{% include team-list.html group="" role="pi" %}
-{% endcapture %}
-
-{% include centerer.html contents=contents %}
-
 In the Advanced Robotics and Computationally AugmenteD Environments (ARCADE) Lab, we develop
 collaborative intelligent systems that support clinical workflows to increase the access to - and
 expand the possibilities of - highest-quality healthcare. In designing these systems, we pioneer
@@ -17,8 +11,19 @@ human-centered solutions that are enabled by synergistic advancements across ima
 vision, machine learning, and interaction design and that are embodied in emerging technology such
 as mixed reality and robotics.
 
+<!-- section break -->
 
-{% include big-link.html type="docs" icon="" text="Meet our Team" link="team" button=true %} {:.center}
+<!-- section dark -->
+<!-- section background images/labphoto.jpg -->
+
+{% 
+  include big-link.html
+  type=""
+  icon="" 
+  text="Meet our Team"
+  link="team"
+  button=true
+%}{:.center}
 
 <!-- section break -->
 
@@ -76,6 +81,20 @@ Artificial Intelligence System Design & Development.
 
 
 <!-- section break -->
+
+## News
+
+<!-- Twitter embeds from https://publish.twitter.com/ -->
+
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/MathiasUnberath?ref_src=twsrc%5Etfw">Tweets by MathiasUnberath</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+<a href="https://twitter.com/MathiasUnberath?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MathiasUnberath</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?screen_name=MathiasUnberath&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @MathiasUnberath</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{:.center}
+
+<!-- section break -->
+
 
 <!-- section full -->
 
