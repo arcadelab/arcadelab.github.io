@@ -4,12 +4,21 @@ title: Home
 
 # Empowering Clinicians with Autonomous Intelligent Systems
 
+{% capture contents %}
+{% include team-list.html group="" role="pi" %}
+{% endcapture %}
+
+{% include centerer.html contents=contents %}
+
 In the Advanced Robotics and Computationally AugmenteD Environments (ARCADE) Lab, we develop
 collaborative intelligent systems that support clinical workflows to increase the access to - and
 expand the possibilities of - highest-quality healthcare. In designing these systems, we pioneer
 human-centered solutions that are enabled by synergistic advancements across imaging, computer
 vision, machine learning, and interaction design and that are embodied in emerging technology such
 as mixed reality and robotics.
+
+
+{% include big-link.html type="docs" icon="" text="Meet our Team" link="team" button=true %} {:.center}
 
 <!-- section break -->
 
@@ -23,7 +32,7 @@ We perform research in a variety of areas.
 
 {%
   include feature.html
-  image="images/sinus_reconstruction.png"
+  image="images/augmented_reality.jpg"
   link="research"
   title="Research"
   text=text
@@ -42,8 +51,8 @@ possible.
 {%
   include feature.html
   image="https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true"
-  link="Resources"
-  title="Resources"
+  link="resources"
+  title="Data and Software Resources"
   text=text
 %}
 
@@ -65,20 +74,6 @@ Artificial Intelligence System Design & Development.
   text=text
 %}
 
-{% capture text %}
-Our team consists of PhD, Masters, and Undergraduate students.
-
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/augmented_reality.jpg"
-  link="team"
-  title="Team"
-  text=text
-%}
 
 <!-- section break -->
 
