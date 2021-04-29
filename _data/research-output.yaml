@@ -35,3 +35,21 @@
   image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true
   tags:
   - simulation
+- id: arxiv:1803.08608
+  title: X-ray-transform Invariant Anatomical Landmark Detection for Pelvic Trauma
+    Surgery
+  authors:
+  - Bastian Bier
+  - Mathias Unberath
+  - Jan-Nico Zaech
+  - Javad Fotouhi
+  - Mehran Armand
+  - Greg Osgood
+  - Nassir Navab
+  - Andreas Maier
+  publisher: arXiv
+  date: 1900-1-1
+  link: https://arxiv.org/abs/1803.08608
+  tags:
+  - Landmark detection
+  - orthopedics
