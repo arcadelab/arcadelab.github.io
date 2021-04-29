@@ -15,6 +15,7 @@ undergrads.
 {% include team-list.html group="" role="phd" %}
 {% include team-list.html group="" role="masters" %}
 {% include team-list.html group="" role="undergrad" %}
+{% include team-list.html group="" role="mascot" %}
 {% endcapture %}
 
 {% include centerer.html contents=contents %}

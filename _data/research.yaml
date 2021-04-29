@@ -9,6 +9,12 @@
   tags:
     - simulation
 
+- id: arxiv:1803.08608
+  date: 2018-03-22
+  tags:
+    - Landmark detection
+    - orthopedics
+
 
 # - id: doi:10.1016/j.csbj.2020.05.017
 #   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
