@@ -1,7 +1,7 @@
 ---
 title: Princess Leia
 image: images/princess_leia.png
-role: phd
+role: mascot
 aliases:
   - Princess Leia
   - P. Leia
