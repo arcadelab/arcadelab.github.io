@@ -19,6 +19,67 @@
   link: https://arxiv.org/abs/2004.00756
   image: https://github.com/JieYingWu/COVID-19_US_County-level_Summaries/blob/master/visualizations/icu_beds.png?raw=true
   repo: JieYingWu/COVID-19_US_County-level_Summaries
+- id: doi:10.1101/2020.05.31.20118687
+  title: Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions
+    in 1,417 U.S. Counties
+  authors:
+  - Jie Ying Wu
+  - Benjamin D. Killeen
+  - Philipp Nikutta
+  - Mareike Thies
+  - Anna Zapaishchykova
+  - Shreya Chakraborty
+  - Mathias Unberath
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-31'
+  link: https://doi.org/gmdndr
+  image: https://github.com/JieYingWu/npi-model/blob/master/visualizations/model.png?raw=true
+  repo: JieYingWu/npi-model
+- id: arxiv:2003.00619
+  title: Extremely Dense Point Correspondences using a Learned Feature Descriptor
+  authors:
+  - Xingtong Liu
+  - Yiping Zheng
+  - Benjamin Killeen
+  - Masaru Ishii
+  - Gregory D. Hager
+  - Russell H. Taylor
+  - Mathias Unberath
+  publisher: arXiv
+  date: '2020-03-02'
+  link: https://arxiv.org/abs/2003.00619
+  image: https://github.com/lppllppl920/DenseDescriptorLearning-Pytorch/blob/master/point_cloud_overlay_with_colmap.gif?raw=true
+  repo: lppllppl920/DenseDescriptorLearning-Pytorch
+- id: arxiv:2003.10987
+  title: Generalizing Spatial Transformers to Projective Geometry with Applications
+    to 2D/3D Registration
+  authors:
+  - Cong Gao
+  - Xingtong Liu
+  - Wenhao Gu
+  - Benjamin Killeen
+  - Mehran Armand
+  - Russell Taylor
+  - Mathias Unberath
+  publisher: arXiv
+  date: '2020-09-29'
+  link: https://arxiv.org/abs/2003.10987
+  image: https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-59716-0_32/MediaObjects/505214_1_En_32_Fig1_HTML.png
+- id: url:https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Neighborhood_Normalization_for_Robust_Geometric_Feature_Learning_CVPR_2021_paper.html
+  title: Neighborhood Normalization for Robust Geometric Feature Learning
+  authors:
+  - Xingtong Liu
+  - Benjamin D. Killeen
+  - Ayushi Sinha
+  - Masaru Ishii
+  - Gregory D. Hager
+  - Russell H. Taylor
+  - Mathias Unberath
+  publisher: ''
+  date: '2021-06-20'
+  link: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Neighborhood_Normalization_for_Robust_Geometric_Feature_Learning_CVPR_2021_paper.html
+  image: https://github.com/lppllppl920/NeighborhoodNormalization-Pytorch/raw/main/pictures/bnhn.png
+  repo: lppllppl920/NeighborhoodNormalization-Pytorch
 - id: arxiv:1803.08606
   title: DeepDRR -- A Catalyst for Machine Learning in Fluoroscopy-guided Procedures
   authors:
@@ -33,6 +94,7 @@
   date: '2018-03-22'
   link: https://arxiv.org/abs/1803.08606
   image: https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true
+  repo: arcadelab/deepdrr
   tags:
   - simulation
 - id: arxiv:1803.08608
@@ -48,7 +110,7 @@
   - Nassir Navab
   - Andreas Maier
   publisher: arXiv
-  date: 1900-1-1
+  date: '2018-03-22'
   link: https://arxiv.org/abs/1803.08608
   tags:
   - Landmark detection
