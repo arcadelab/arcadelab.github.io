@@ -2,6 +2,36 @@
 title: Team
 ---
 
+<!-- section dark -->
+<!-- section background images/banner.jpg -->
+
+We are looking for motivated students interested in the intersection of computer science, vision,
+and health.
+
+PhD applicants may apply through Johns Hopkins graduate admissions, being sure to note Mathias
+Unberath as their primary faculty member of interest.
+
+Postdoctoral applicants, masters students, and undergraduates should reach out to Prof. Unberath
+directly, being sure to include area of interest, time frame, and the type of work (Masters thesis,
+general research, etc). Applicants may wish to identify a PhD student whose interests align with
+theirs, who could supervise.
+
+{%
+  include big-link.html
+  icon="fas user-graduate"
+  text="PhD Applicants"
+  link="https://applygrad.jhu.edu/apply/"
+  button=true
+%}{%
+  include big-link.html
+  icon="fas envelope"
+  text="Other Applicants"
+  link="mailto:unberath@jhu.edu"
+  button=true
+%}{:.center}
+
+<!-- section break -->
+
 # <i class="fas fa-users"></i>Team
 
 Professor Mathias Unberath leads ARCADE Lab. We are full-time PhD students, Masters students, and
@@ -19,36 +49,6 @@ undergrads.
 {% endcapture %}
 
 {% include centerer.html contents=contents %}
-
-<!-- section break -->
-
-<!-- section dark -->
-<!-- section background images/banner.jpg -->
-
-We are looking for motivated students interested in the intersection of computer science, vision,
-and health.
-
-PhD applicants may apply through Johns Hopkins graduate admissions, being sure to note Mathias
-Unberath as their primary faculty member of interest.
-
-Masters and undergraduate students should reach out to Prof. Unberath directly, being sure to
-include area of interest, time frame, and the type of work (Masters thesis, general research, etc).
-Applicants may wish to identify a PhD student whose interests align with theirs, who could
-supervise.
-
-{%
-  include big-link.html
-  icon="fas user-graduate"
-  text="PhD Applicants"
-  link="https://applygrad.jhu.edu/apply/"
-  button=true
-%}{%
-  include big-link.html
-  icon="fas envelope"
-  text="Other Applicants"
-  link="mailto:unberath@jhu.edu"
-  button=true
-%}{:.center}
 
 <!-- section break -->
 

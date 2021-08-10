@@ -38,4 +38,3 @@ publications, among other things, please refer to either my CV or Google Scholar
 I am teaching CS482/682 Machine Learning: Deep Learning and CS486/686 Artificial Intelligent System
 Design and Development, a new projects-based course focused on human-centered AI. More information
 on my teaching is available at deep.cs.jhu.edu/.
-
