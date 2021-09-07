@@ -38,4 +38,4 @@ Systems](https://www.epic.com/) in Cognitive Computing, and [Intuitive
 Surgical](https://www.intuitive.com/en-us) under Omid Mohareri.
 
 In my spare time, I pursue creative writing. For some recent examples, please see [my
-blog](https://benjamindkilleen.com/blog/).
+blog](https://benjamindkilleen.medium.com).
