@@ -1,6 +1,6 @@
 ---
 title: Nathan Drenkow
-image: images/nathan_photo.png
+image: images/nathan_photo.jpg
 role: phd
 email: ndrenko1@jhu.edu
 github: ndrenkow
