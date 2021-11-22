@@ -4,7 +4,7 @@ image: images/killeen.png
 role: phd
 aliases:
   - Benjamin D. Killeen
-  - Benjamin Killeen 
+  - Benjamin Killeen
   - B. D. Killeen
   - B. Killeen
   - B Killeen
@@ -31,12 +31,11 @@ Scholar](https://scholar.google.com/citations?user=QX7AvxUAAAAJ).
 
 In 2019, I completed my undergraduate education at the [University of
 Chicago](https://uchicago.edu), receiving a B.A. in Computer Science with Honors and a minor in
-Physics, advised by [Gordon Kindlmann](http://people.cs.uchicago.edu/~glk/). I have also been
+Physics, advised by [Gordon Kindlmann](https://people.cs.uchicago.edu/~glk/). I have also been
 fortunate enough to intern with [IBM Research](https://www.research.ibm.com/labs/almaden/) under
 [Geoffrey Burr](https://researcher.watson.ibm.com/researcher/view.php?person=us-gwburr), [Epic
 Systems](https://www.epic.com/) in Cognitive Computing, and [Intuitive
 Surgical](https://www.intuitive.com/en-us) under Omid Mohareri.
 
 In my spare time, I pursue creative writing. For some recent examples, please see [my
-blog](https://benjamindkilleen.com/blog/).
-
+blog](https://benjamindkilleen.medium.com).
