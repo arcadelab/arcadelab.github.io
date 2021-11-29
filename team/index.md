@@ -5,6 +5,8 @@ title: Team
 <!-- section dark -->
 <!-- section background images/banner.jpg -->
 
+{% include figure.html image="images/2021_arcadelab_cropped.jpeg" width="80%" %}
+
 We are looking for motivated students interested in the intersection of computer science, vision,
 and health.
 
@@ -32,10 +34,9 @@ theirs, who could supervise.
 
 <!-- section break -->
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>Team Members
 
-Professor Mathias Unberath leads ARCADE Lab. We are full-time PhD students, Masters students, and
-undergrads.
+Our team consists of full-time PhD students, Masters students, and undergrads, led by Prof. Mathias Unberath. For up-to-date info on our members, check out their personal websites, Google Scholar profiles, or social media by clicking through below.
 
 <!-- section break -->
 

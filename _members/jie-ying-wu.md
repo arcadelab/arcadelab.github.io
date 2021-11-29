@@ -6,7 +6,8 @@ aliases:
   - Jie Ying Wu
   - J Y Wu
   - J. Y. Wu
-email: 
+email:
+group: alum
 website: https://www.cs.jhu.edu/~jieying/
 google-scholar: Wrq_fDEAAAAJ&hl
 github: JieYingWu
@@ -17,5 +18,3 @@ SMARTS lab directed by Peter Kazanzides. My focus is on improving teleoperation 
 Reserach Kit and synthesizing low-level signals using machine learning techniques to provide
 high-level information. Some examples are using current measurements as a proxy for forces and using
 data-driven methods to improve soft-tissue simulation results.
-
-
