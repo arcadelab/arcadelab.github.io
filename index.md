@@ -11,15 +11,17 @@ human-centered solutions that are enabled by synergistic advancements across ima
 vision, machine learning, and interaction design and that are embodied in emerging technology such
 as mixed reality and robotics.
 
+{% include figure.html image="images/2021_arcadelab.jpg" width="80%" %}
+
 <!-- section break -->
 
 <!-- section dark -->
 <!-- section background images/labphoto.jpg -->
 
-{% 
+{%
   include big-link.html
   type=""
-  icon="" 
+  icon=""
   text="Meet our Team"
   link="team"
   button=true
@@ -27,9 +29,9 @@ as mixed reality and robotics.
 
 <!-- section break -->
 
-{% capture text %} 
+{% capture text %}
 
-We perform research in a variety of areas.
+We develop collaborative intelligent systems that support clinical workflows to increase the access to---and expand the possibilities of---highest quality healthcare.
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -43,8 +45,7 @@ We perform research in a variety of areas.
   text=text
 %}
 
-
-{% capture text %} 
+{% capture text %}
 
 We strive to further the larger community by making our data and code freely available as much as
 possible.
@@ -79,7 +80,6 @@ Artificial Intelligence System Design & Development.
   text=text
 %}
 
-
 <!-- section break -->
 
 ## News
@@ -95,6 +95,4 @@ Artificial Intelligence System Design & Development.
 
 <!-- section break -->
 
-
 <!-- section full -->
-
