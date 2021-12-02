@@ -1,7 +1,7 @@
 ---
 title: Isabela Hernandez
 image: images/isabela.jpg
-role: Visiting Graduate Scholar
+role: masters
 email: iherna12@jhu.edu
 github: isabelahm
 linkedin: ihernandezm
