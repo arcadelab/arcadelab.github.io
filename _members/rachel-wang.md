@@ -1,7 +1,7 @@
 ---
 title: Rachel Wang
 image: images/rachel.JPG
-role: Visiting Student
+role: masters
 email: rwang126@jh.edu
 github: linwang98
 ---
