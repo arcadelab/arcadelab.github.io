@@ -1,6 +1,6 @@
 ---
 title: Jonas Winter
-image: images/winter.png
+image: images/winter.jpg
 role: masters
 email: jwinte25@jhu.edu
 ---
