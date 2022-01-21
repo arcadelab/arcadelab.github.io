@@ -35,3 +35,16 @@
   tags:
     - Landmark detection
     - orthopedics
+- id: url:https://link.springer.com/chapter/10.1007/978-3-030-63419-3_12
+  image: https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-63419-3_12/MediaObjects/502092_1_En_12_Fig1_HTML.png
+  date: 2020-10-8
+  tags:
+    - Human interaction
+    - Unsupervised clustering
+- id: arxiv:2108.06246
+  image: https://github.com/hchen135/haomin-website/blob/master/content/publication/UM_interpretable_classification/featured.png
+  date: 2021-8-13
+  tags:
+    - Interpretable learning
+    - Human interaction
+    - Super-human task

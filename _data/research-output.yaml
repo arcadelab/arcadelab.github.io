@@ -115,3 +115,31 @@
   tags:
   - Landmark detection
   - orthopedics
+- id: url:https://link.springer.com/chapter/10.1007/978-3-030-63419-3_12
+  title: An Interactive Approach to Region of Interest Selection in Cytologic Analysis of Uveal Melanoma Based on Unsupervised Clustering
+  authors:
+  - Haomin Chen
+  - TY Alvin Liu
+  - Zelia Correa
+  - Mathias Unberath
+  publisher: ''
+  date: '2020-10-08'
+  link: https://link.springer.com/chapter/10.1007/978-3-030-63419-3_12
+  tags:
+  - Human interaction
+  - Unsupervised clustering
+- id: arxiv:2108.06246
+  title: An Interpretable Algorithm for Uveal Melanoma Subtyping from Whole Slide Cytology Images
+  authors:
+  - Haomin Chen
+  - TY Alvin Liu
+  - Catalina Gomez
+  - Zelia Correa
+  - Mathias Unberath
+  publisher: ''
+  date: '2021-08-13'
+  link: https://arxiv.org/abs/2108.06246
+  tags:
+  - Interpretable learning
+  - Human interaction
+  - Super-human task
