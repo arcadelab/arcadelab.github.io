@@ -56,7 +56,7 @@ possible.
 
 {%
   include feature.html
-  image="https://github.com/arcadelab/deepdrr/blob/main/images/deepdrr_workflow.png?raw=true"
+  image="images/Mathias_Unberath_Lab-7796.jpg"
   link="resources"
   title="Data and Software Resources"
   text=text
