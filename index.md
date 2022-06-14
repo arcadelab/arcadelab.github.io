@@ -47,7 +47,7 @@ We develop collaborative intelligent systems that support clinical workflows to 
 
 {% capture text %}
 
-We strive to further the larger community by making our data and code freely available as much as
+We work to further the larger community by making our data and code freely available as much as
 possible.
 
 [See what we've built &nbsp;→](resources)
