@@ -1,11 +1,12 @@
 ---
 title: Jonas Winter
-image: images/winter.jpg
+image: images/winter.JPG
 role: masters
 email: jwinte25@jhu.edu
+group: alum
 ---
 
-A Graduate Student in Medical Enginnering at [Friedrich Alexander University](https://www.fau.de/) in Erlangen, Germany. I am a Graduate Exchange Visitor in the Advanced Robotics and Computationally Augmented
+A Graduate Student in Medical Enginnering at [Friedrich Alexander University](https://www.fau.de/) in Erlangen, Germany. I am a Graduate Exchange Visitor i the Advanced Robotics and Computationally Augmented
 Environments ([ARCADE](https://arcade.cs.jhu.edu/)) research group, led by [Mathias
 Unberath](https://mathiasunberath.github.io/).
 
